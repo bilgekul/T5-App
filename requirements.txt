@@ -1,7 +1,6 @@
 evaluate==0.4.2
 numpy==2.1.0
 pyttsx3==2.91
-pywin32==306
 redis==5.0.8
 SpeechRecognition==3.10.4
 streamlit==1.37.1
