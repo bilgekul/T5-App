@@ -4,7 +4,9 @@ try:
     client = redis.Redis(
         host="192.168.1.29",
         port=6379,
-        decode_responses=True
+        decode_responses=True,
+        socket_timeout=10,
+        socket_keepalive=True
     )
     if client:
         print("db is connected")
