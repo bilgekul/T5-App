@@ -1,11 +1,7 @@
-import speech_recognition as sr 
+import speech_recognition as sr
 import pyttsx3
-import pythoncom
 
 def recognize_and_speak():
-
-    pythoncom.CoInitialize() 
-
     recognizer = sr.Recognizer()
     engine = pyttsx3.init()
 
@@ -18,7 +14,6 @@ def recognize_and_speak():
             recognizer.adjust_for_ambient_noise(source=source, duration=0.5)
             audio = recognizer.listen(source=source)
             
-           
             text = recognizer.recognize_google(audio_data=audio)
             text = text.lower()
 
