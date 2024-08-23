@@ -1,0 +1,242 @@
+{"test_data" :[
+    {
+        "input": "Hello.",
+        "output": "Merhaba."
+    },
+    {
+        "input": "How are you?",
+        "output": "Nasılsın?"
+    },
+    {
+        "input": "Are you okay?",
+        "output": "İyi misin?"
+    },
+    {
+        "input": "The weather is hot.",
+        "output": "Hava sıcak."
+    },
+    {
+        "input": "Open the door.",
+        "output": "Kapıyı aç."
+    },
+    {
+        "input": "Thank you.",
+        "output": "Teşekkür ederim."
+    },
+    {
+        "input": "Come here.",
+        "output": "Gel buraya."
+    },
+    {
+        "input": "What happened?",
+        "output": "Ne oldu?"
+    },
+    {
+        "input": "Who is he/she?",
+        "output": "O kim?"
+    },
+    {
+        "input": "What time is it?",
+        "output": "Saat kaç?"
+    },
+    {
+        "input": "Eat the food.",
+        "output": "Yemeği ye."
+    },
+    {
+        "input": "Call me.",
+        "output": "Beni ara."
+    },
+    {
+        "input": "Let's go.",
+        "output": "Hadi gidelim."
+    },
+    {
+        "input": "Where is he/she?",
+        "output": "O nerede?"
+    },
+    {
+        "input": "I missed you.",
+        "output": "Seni özledim."
+    },
+    {
+        "input": "Are you home?",
+        "output": "Evde misin?"
+    },
+    {
+        "input": "Read the book.",
+        "output": "Kitabı oku."
+    },
+    {
+        "input": "Drink water.",
+        "output": "Su iç."
+    },
+    {
+        "input": "Can you help?",
+        "output": "Yardım edebilir misin?"
+    },
+    {
+        "input": "What are you doing?",
+        "output": "Ne yapıyorsun?"
+    },
+    {
+        "input": "Do you want to go to the cinema today?",
+        "output": "Bugün sinemaya gitmek ister misin?"
+    },
+    {
+        "input": "Have you read this book?",
+        "output": "Bu kitabı okudun mu?"
+    },
+    {
+        "input": "Did you sleep well last night?",
+        "output": "Dün gece iyi uyudun mu?"
+    },
+    {
+        "input": "Did you walk the dog?",
+        "output": "Köpeği gezdirdin mi?"
+    },
+    {
+        "input": "Have you watched the new movie?",
+        "output": "Yeni filmi izledin mi?"
+    },
+    {
+        "input": "What's for dinner tonight?",
+        "output": "Akşam yemeğinde ne var?"
+    },
+    {
+        "input": "What are you doing this weekend?",
+        "output": "Hafta sonu ne yapacaksın?"
+    },
+    {
+        "input": "Where are you right now?",
+        "output": "Şu an neredesin?"
+    },
+    {
+        "input": "Can we meet tomorrow?",
+        "output": "Yarın görüşebilir miyiz?"
+    },
+    {
+        "input": "Do you want to have coffee?",
+        "output": "Kahve içmek ister misin?"
+    },
+    {
+        "input": "Did you fix your computer?",
+        "output": "Bilgisayarını tamir ettin mi?"
+    },
+    {
+        "input": "Did you go to school today?",
+        "output": "Bugün okula gittin mi?"
+    },
+    {
+        "input": "Where will you go on vacation?",
+        "output": "Tatilde nereye gideceksin?"
+    },
+    {
+        "input": "What are we doing tonight?",
+        "output": "Bu akşam ne yapacağız?"
+    },
+    {
+        "input": "What did you eat last night?",
+        "output": "Dün akşam ne yedin?"
+    },
+    {
+        "input": "Are you free this weekend?",
+        "output": "Bu hafta sonu boş musun?"
+    },
+    {
+        "input": "Did you start the new project?",
+        "output": "Yeni projeye başladın mı?"
+    },
+    {
+        "input": "Were you late for work this morning?",
+        "output": "Bu sabah işe geç mi kaldın?"
+    },
+    {
+        "input": "What are you planning to do now?",
+        "output": "Şimdi ne yapmayı planlıyorsun?"
+    },
+    {
+        "input": "When are you leaving work?",
+        "output": "İşten ne zaman çıkıyorsun?"
+    },
+    {
+        "input": "I plan to meet my friends this weekend and take a tour of the city.",
+        "output": "Hafta sonu arkadaşlarımla buluşmayı ve şehirde bir tur yapmayı planlıyorum."
+    },
+    {
+        "input": "I want to go to the beach on vacation to relax and read a book.",
+        "output": "Tatilde dinlenmek için plaja gitmek ve kitap okumak istiyorum."
+    },
+    {
+        "input": "I will continue working on this project and hope to finish it on time.",
+        "output": "Bu proje üzerinde çalışmaya devam edeceğim ve umarım zamanında bitirebilirim."
+    },
+    {
+        "input": "I am thinking of visiting a friend I haven't seen in a long time.",
+        "output": "Uzun zamandır görmediğim bir arkadaşımı ziyaret etmeyi düşünüyorum."
+    },
+    {
+        "input": "I will try a new recipe for dinner, and I hope it turns out well.",
+        "output": "Akşam yemeği için yeni bir tarif deneyeceğim ve umarım güzel olur."
+    },
+    {
+        "input": "I plan to wake up early in the morning, go for a walk, and then have breakfast.",
+        "output": "Sabah erken kalkıp yürüyüş yapmayı ve ardından kahvaltı etmeyi düşünüyorum."
+    },
+    {
+        "input": "I will study today, and then I will meet up with my friends.",
+        "output": "Bugün ders çalışacağım, sonra arkadaşlarımla buluşacağım."
+    },
+    {
+        "input": "I will visit my family this weekend and spend time with them.",
+        "output": "Bu hafta sonu ailemi ziyaret edeceğim ve onlarla vakit geçireceğim."
+    },
+    {
+        "input": "I plan to wake up early tomorrow morning and go for a run.",
+        "output": "Yarın sabah erkenden uyanıp koşuya çıkmayı planlıyorum."
+    },
+    {
+        "input": "I finally completed the project I have been working on for a while, and I am very happy.",
+        "output": "Bir süredir üzerinde çalıştığım projeyi nihayet tamamladım ve çok mutluyum."
+    },
+    {
+        "input": "I am preparing for my new job starting next week, and I am a bit excited.",
+        "output": "Haftaya başlayacak olan yeni işime hazırlık yapıyorum ve biraz heyecanlıyım."
+    },
+    {
+        "input": "There are many places I want to visit on vacation, but I won't be able to go to all of them.",
+        "output": "Tatilde görmek istediğim birçok yer var ama hepsine gidemeyeceğim."
+    },
+    {
+        "input": "I want to learn a new language because getting to know different cultures fascinates me.",
+        "output": "Yeni bir dil öğrenmek istiyorum, çünkü farklı kültürleri tanımak beni cezbediyor."
+    },
+    {
+        "input": "I will attend a training program next month, and I think I will learn a lot.",
+        "output": "Gelecek ay bir eğitim programına katılacağım ve çok şey öğreneceğimi düşünüyorum."
+    },
+    {
+        "input": "I have been waiting for a concert for a long time, and I will go to it this weekend.",
+        "output": "Uzun süredir beklediğim bir konser var ve bu hafta sonu ona gideceğim."
+    },
+    {
+        "input": "I had a beautiful dream last night, and I was very happy when I woke up in the morning.",
+        "output": "Dün gece çok güzel bir rüya gördüm ve sabah uyandığımda çok mutluydum."
+    },
+    {
+        "input": "I had to make some changes to the route I planned for the holiday.",
+        "output": "Tatil için planladığım rota üzerinde bazı değişiklikler yapmak zorunda kaldım."
+    },
+    {
+        "input": "I want to take up a new hobby, maybe I can start painting.",
+        "output": "Yeni bir hobi edinmek istiyorum, belki resim yapmaya başlayabilirim."
+    },
+    {
+        "input": "I plan to attend a sports event this weekend, and I am very excited.",
+        "output": "Bu hafta sonu bir spor etkinliğine katılmayı planlıyorum ve çok heyecanlıyım."
+    },
+    {
+        "input": "I will take some time this weekend to read the book I started last week.",
+        "output": "Bu hafta sonu geçen hafta başladığım kitabı okumak için biraz zaman ayıracağım."
+    }
+]}
