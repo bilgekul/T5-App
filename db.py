@@ -2,7 +2,7 @@ import redis
 
 try:
     client = redis.Redis(
-        host="10.223.134.248",
+        host="192.168.1.29",
         port=6379,
         decode_responses=True,
         socket_timeout=10,
