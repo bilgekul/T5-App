@@ -7,4 +7,5 @@ streamlit==1.37.1
 tensorflow==2.17.0
 transformers==4.43.4
 torch==2.0.1
+tf-keras
 
